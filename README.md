@@ -11,6 +11,7 @@ This is a memory game written in JavaScript following a tutorial.
 New World Fishing.zip
 This is an auto-fisher created for use in the MMORPG "New World". Written in python using the pyautogui API.
 There is a mini game when leveling up your fishing skill. It is quite tedious so I created this to do the work while I went to eat, do gardening etc.
+It also moves your character every now and then to avoid the in game afk timeout.
 
 Packman.zip
 Another JavaScript tutorial I was following to improve my programming.
